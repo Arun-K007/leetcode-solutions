@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Arun-K007/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Arun-K007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0065-valid-number](https://github.com/Arun-K007/leetcode-solutions/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
 | ------- |
