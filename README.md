@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arun-K007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/Arun-K007/leetcode-solutions/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Arun-K007/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Arun-K007/leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 ## Dynamic Programming
 |  |
 | ------- |
