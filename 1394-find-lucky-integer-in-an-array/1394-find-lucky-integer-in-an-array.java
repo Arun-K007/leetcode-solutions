@@ -5,13 +5,11 @@ class Solution {
         for(int x:arr){
             freq[x]++;
         } 
-        for(int i=0;i<freq.length;i++){
+        for(int i=1;i<freq.length;i++){
             if(freq[i]==i){
                 lucky=freq[i];
             }
-            if(lucky==0){
-                lucky=-1;
-            }
+           
         }
         return lucky;
     }
