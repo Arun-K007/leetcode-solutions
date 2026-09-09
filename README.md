@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Arun-K007/leetcode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arun-K007/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Arun-K007/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Arun-K007/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
