@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arun-K007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Arun-K007/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Arun-K007/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Arun-K007/leetcode-solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arun-K007/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun-K007/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arun-K007/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Arun-K007/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Arun-K007/leetcode-solutions/tree/master/0066-plus-one) |
 | [1872-stone-game-viii](https://github.com/Arun-K007/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Arun-K007/leetcode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arun-K007/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
