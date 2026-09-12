@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Arun-K007/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-K007/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Arun-K007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
@@ -17,10 +17,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Arun-K007/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arun-K007/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1872-stone-game-viii](https://github.com/Arun-K007/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arun-K007/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Arun-K007/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Arun-K007/leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Arun-K007/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -30,20 +31,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arun-K007/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Arun-K007/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-K007/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Arun-K007/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arun-K007/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun-K007/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arun-K007/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-K007/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0010-regular-expression-matching](https://github.com/Arun-K007/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Arun-K007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/Arun-K007/leetcode-solutions/tree/master/0065-valid-number) |
@@ -53,27 +55,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Arun-K007/leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1927-sum-game](https://github.com/Arun-K007/leetcode-solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0010-regular-expression-matching](https://github.com/Arun-K007/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [1872-stone-game-viii](https://github.com/Arun-K007/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arun-K007/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Arun-K007/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Arun-K007/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Arun-K007/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/Arun-K007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Arun-K007/leetcode-solutions/tree/master/0002-add-two-numbers) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Arun-K007/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Arun-K007/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Arun-K007/leetcode-solutions/tree/master/0066-plus-one) |
@@ -83,77 +86,78 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Arun-K007/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Arun-K007/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0027-remove-element](https://github.com/Arun-K007/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Arun-K007/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arun-K007/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun-K007/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0242-valid-anagram](https://github.com/Arun-K007/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun-K007/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arun-K007/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Arun-K007/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arun-K007/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/Arun-K007/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arun-K007/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Arun-K007/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1927-sum-game](https://github.com/Arun-K007/leetcode-solutions/tree/master/1927-sum-game) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1872-stone-game-viii](https://github.com/Arun-K007/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Arun-K007/leetcode-solutions/tree/master/1927-sum-game) |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1872-stone-game-viii](https://github.com/Arun-K007/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1872-stone-game-viii](https://github.com/Arun-K007/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1872-stone-game-viii](https://github.com/Arun-K007/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Arun-K007/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Arun-K007/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Arun-K007/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Arun-K007/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
