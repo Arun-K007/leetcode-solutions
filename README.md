@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Arun-K007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Arun-K007/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Arun-K007/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Arun-K007/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Arun-K007/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arun-K007/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arun-K007/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-K007/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Arun-K007/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Arun-K007/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Arun-K007/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arun-K007/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1872-stone-game-viii](https://github.com/Arun-K007/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arun-K007/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
