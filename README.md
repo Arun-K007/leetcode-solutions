@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Arun-K007/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-K007/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Arun-K007/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Arun-K007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Arun-K007/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Arun-K007/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Arun-K007/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Arun-K007/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Arun-K007/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arun-K007/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Arun-K007/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arun-K007/leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/Arun-K007/leetcode-solutions/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arun-K007/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
