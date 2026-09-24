@@ -4,27 +4,34 @@ class Solution {
         int n=nums2.length;
         int mid=0;
         int[] arr= new int[m+n];
+        int i=0;
+        int j=0;
         int index=0;
-        for(int i=0;i<nums1.length;i++){
-            arr[i]=nums1[i];
-            index=i;
-        }
-        if(nums1.length>0)index+=1;
-        
-        for(int i=0;i<nums2.length;i++){
-
-            arr[index]=nums2[i];
-            if(index<arr.length-1){
-                index++;
+        while(i<nums1.length || j<nums2.length){
+            if(i>=nums1.length ){
+                arr[index]=nums2[j];
+                j++;
             }
+            else if(j>=nums2.length){
+                arr[index] =nums1[i];
+                i++;
+            }
+            else{
+                if(nums1[i]>nums2[j]){
+                    arr[index]=nums2[j];
+                    j++;
+                }
+                else{
+                    arr[index]=nums1[i];
+                    i++;
+                }
+            }
+            index++;
         }
-        Arrays.sort(arr);
-        
-        
         if(arr.length%2==0){
-            int i=(arr.length/2);
-            int j=i-1;
-             return (double)(arr[i]+arr[j])/2;
+            int a=(arr.length/2);
+            int b=a-1;
+             return (double)(arr[a]+arr[b])/2;
             
         }
         else{
