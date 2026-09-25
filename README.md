@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arun-K007/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Arun-K007/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Arun-K007/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun-K007/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arun-K007/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/Arun-K007/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Arun-K007/leetcode-solutions/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Arun-K007/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arun-K007/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/Arun-K007/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1370-increasing-decreasing-string](https://github.com/Arun-K007/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Arun-K007/leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arun-K007/leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arun-K007/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Arun-K007/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/Arun-K007/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun-K007/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arun-K007/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arun-K007/leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -238,4 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Arun-K007/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Arun-K007/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Arun-K007/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Arun-K007/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
