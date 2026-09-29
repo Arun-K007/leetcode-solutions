@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-K007/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Arun-K007/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Arun-K007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Arun-K007/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Arun-K007/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Arun-K007/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Arun-K007/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Arun-K007/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Arun-K007/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Arun-K007/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Arun-K007/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Arun-K007/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Arun-K007/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Arun-K007/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Arun-K007/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Arun-K007/leetcode-solutions/tree/master/0242-valid-anagram) |
