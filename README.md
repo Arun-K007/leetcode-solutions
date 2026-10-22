@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arun-K007/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arun-K007/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Arun-K007/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Arun-K007/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Arun-K007/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Arun-K007/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arun-K007/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Arun-K007/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Arun-K007/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arun-K007/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Arun-K007/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Arun-K007/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-K007/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Arun-K007/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arun-K007/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Arun-K007/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun-K007/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Arun-K007/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arun-K007/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arun-K007/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Arun-K007/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Arun-K007/leetcode-solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Arun-K007/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Arun-K007/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arun-K007/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Arun-K007/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arun-K007/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Arun-K007/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Arun-K007/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arun-K007/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Arun-K007/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/Arun-K007/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun-K007/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -278,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Arun-K007/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Arun-K007/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arun-K007/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Arun-K007/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
