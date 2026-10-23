@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Arun-K007/leetcode-solutions/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Arun-K007/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arun-K007/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Arun-K007/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Arun-K007/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Arun-K007/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Arun-K007/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Arun-K007/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arun-K007/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Arun-K007/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Arun-K007/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun-K007/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arun-K007/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
